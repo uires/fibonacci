@@ -1,4 +1,9 @@
 
+/**
+ * @author uires
+ *
+ */
+
 public class fibonnaci {
 	
 	static void imprime(int numero){
